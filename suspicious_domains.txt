@@ -1,0 +1,12 @@
+api.ipify.org.
+settings-win.data.microsoft.com.
+www.bing.com.
+arc.msn.com.
+ctldl.windowsupdate.com.
+s2.symcb.com.
+ts-ocsp.ws.symantec.com.
+ocsp.verisign.com.
+mrodevicemgr.officeapps.live.com.
+ctldl.windowsupdate.com.
+login.live.com.
+dns.msftncsi.com.
