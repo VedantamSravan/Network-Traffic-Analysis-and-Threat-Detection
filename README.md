@@ -20,7 +20,7 @@ pip install pandas scapy scikit-learn matplotlib geopandas
 
 ## File Structure
 ```
-project-directory/
+Network-Traffic-Analysis-and-Threat-Detection/
 │── main.py                        # Main script
 │── suspicious_ips.txt              # List of suspicious IP addresses
 │── suspicious_domains.txt          # List of suspicious domains
